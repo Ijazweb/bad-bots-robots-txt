@@ -16,6 +16,9 @@ User-agent: GoogleOther
 User-agent: APIs-Google
 
 User-agent: Bingbot
+User-agent: AdIdxBot
+User-agent: BingPreview
+User-agent: MicrosoftPreview
 
 User-agent: DuckDuckBot
 
@@ -28,7 +31,7 @@ User-agent: YandexBot
 
 User-agent: Yahoo Slurp
 
-Disallow: /
+Allow: /
 
 User-agent: *
-Disallow:
+Disallow: /
