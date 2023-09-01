@@ -93,6 +93,5 @@ User-agent: 2ip bot
 User-agent: YaK
 User-agent: Xing Bot
 User-agent: Bytespider
-User-agent: AhrefsBot
 User-agent: GPTBot
 Disallow: /
